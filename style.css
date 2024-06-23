@@ -102,7 +102,7 @@ header {
 
 .feature-section {
   padding: 0 6% 0 6%;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
   text-align: center;
 }
 
@@ -188,5 +188,11 @@ header {
 
   .future-section {
     height: 70vh;
+    padding: 30px 3%;
+  }
+
+  .future-inner {
+    padding: 20px;
+    text-align: center;
   }
 }
